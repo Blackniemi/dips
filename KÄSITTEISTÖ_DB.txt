@@ -1,0 +1,10 @@
+
+
+
+
+FOSS - Fidelity Optimized Signal Scaling (FOSS)
+
+Qualcomm Technologies, Inc. (QTI) display
+feature to reduce power consumption for OLED panels. It aims to achieve an optimal visual
+experience of the displayed image based on Human Visual System (HVS) metrics, while still
+saving power on the OLED panel
